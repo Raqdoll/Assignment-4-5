@@ -1,0 +1,14 @@
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.deps.json
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.runtimeconfig.json
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.runtimeconfig.dev.json
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.dll
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.pdb
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.csprojAssemblyReference.cache
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.RazorAssemblyInfo.cache
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.RazorAssemblyInfo.cs
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.AssemblyInfo.cs
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.RazorTargetAssemblyInfo.cache
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.dll
+C:\Users\Ilari\Desktop\Metropolia\Vihko\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.pdb
