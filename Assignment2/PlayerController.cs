@@ -1,10 +1,13 @@
 using System;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Assignment2
 {
     [Route("api/players")]
+    [ApiController]
+    [Authorize(Policy = "BasicClients")]
     public class PlayerController : Controller
     {
         PlayerProcessor processor;
@@ -37,6 +40,7 @@ namespace Assignment2
             return processor.ModifyPlayer(id,player);
         }
         [HttpDelete("{id}")]
+        [Authorize (Policy = "AdminOnly")]
         public Task<Player> DeletePlayer(Guid id){
             return processor.DeletePlayer(id);
         }

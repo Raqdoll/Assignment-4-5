@@ -30,6 +30,15 @@ namespace Assignment2
             services.AddSingleton<PlayerProcessor>();
             services.AddSingleton<IRepository, MongoDbRepository>();
             services.AddSingleton<ItemProcessor>();
+            services.AddSingleton<AuthMiddleware>();
+
+            services.AddMvc();
+
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("AdminOnly", policy => policy.RequireClaim("AdminKey"));
+                options.AddPolicy("BasicClients", policy => policy.RequireClaim("ApiKey"));
+            });
             
         }
 
